@@ -94,7 +94,7 @@ def on_select(event):
 
 root = tk.Tk()
 root.geometry("800x600")
-root.title("Employee Management System")
+root.title("Employee Management Portal")
 
 tk.Label(root, text="Name").grid(row=0, column=0)
 tk.Label(root, text="Position").grid(row=1, column=0)
