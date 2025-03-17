@@ -32,3 +32,4 @@ def close_connection():
         conn.close()
         print("Connection closed")
 
+read_records()
